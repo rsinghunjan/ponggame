@@ -1,6 +1,4 @@
 # ponggame
-Simple Pong game just for fun.
-  
 <!DOCTYPE html>
 <html lang="en">
 <head>
